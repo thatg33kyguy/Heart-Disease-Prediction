@@ -1,12 +1,3 @@
-Great — I re-ran your model with the provided dataset.
-
-✅ **Logistic Regression results:**
-
-* **Training Accuracy:** \~86.8%
-* **Testing Accuracy:** \~86.8%
-
-Now here’s the **final professional README** with these exact numbers included:
-
 ```markdown
 # Heart Disease Prediction using Machine Learning  
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/thatg33kyguy/Heart-Disease-Prediction)  
@@ -65,5 +56,3 @@ Heart-Disease-Prediction/
 - Apply hyperparameter tuning for improved accuracy.  
 - Deploy as a web application using Flask or Streamlit.  
 ```
-
-Do you want me to also generate a **requirements.txt** from your notebook so anyone can install dependencies and run it instantly?
